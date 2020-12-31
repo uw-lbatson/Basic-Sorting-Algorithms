@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=InsertionSortVisualizer
+comment0.text=\r\n\ \r\n\ @author\ Logan\r\n\ @version\ 1.2\r\n
+comment1.params=
+comment1.target=InsertionSortVisualizer()
+comment2.params=
+comment2.target=void\ updateList()
+comment3.params=
+comment3.target=boolean\ checkComplete()
+comment4.params=
+comment4.target=void\ act()
+numComments=5
