@@ -15,3 +15,9 @@ addObject(sort,1,1);
 '''
 is uncommented, which displays bubble sort, uncomment both the variable definition and addObject
 for the specific algorithm to work.
+
+An unsolved and solved state can be seen below:
+
+![Sorting Algos Unsolved](https://i.imgur.com/6yZVSFq.png)
+
+![Sorting Algos Solved](https://i.imgur.com/7YovSjJ.png)
